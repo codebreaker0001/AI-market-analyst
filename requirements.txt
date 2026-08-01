@@ -1,0 +1,5 @@
+edgartools>=5.0        # SEC EDGAR filings
+yfinance>=0.2          # live quotes + price history
+psycopg[binary]>=3.1   # Postgres driver
+pgvector>=0.3          # vector type support (used later)
+python-dotenv>=1.0     # load .env
